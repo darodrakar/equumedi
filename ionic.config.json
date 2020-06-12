@@ -1,0 +1,7 @@
+{
+  "name": "equumedi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
